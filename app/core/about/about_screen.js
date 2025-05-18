@@ -4,6 +4,8 @@ $('#armrAboutBtn').click(function() {
     const html_content = 
 `<div style="text-align: center; padding-left: 20px; padding-right: 20px; color: rgb(200, 200, 200)">
 <div style="font-size: 20px"><b>Hey!</b></div>
+All credit is given to <a href="https://github.com/SteepAtticStairs" style"colore: #53a2e0;">SteepAtticStairs</a> on githhub!
+
 Thanks for checking out my project AtticRadar!
 This app was made by an independent developer - a (recently graduated) high school student.
 
@@ -21,6 +23,7 @@ It's on GitHub! Check it out:
 I’d appreciate giving credit if you do find the code helpful!
 
 Copyright © 2025 SteepAtticStairs. All rights reserved.
+Copyright © 2025 Python's Den. All rights reserved.
 </div>
 </div>`
 
