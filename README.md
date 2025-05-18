@@ -7,7 +7,11 @@ A clean, simple, but powerful weather toolkit for the web browser. Includes NEXR
 You can find the app live here:<br>
 <b>[https://atticradar.steepatticstairs.net](https://atticradar.steepatticstairs.net)</b>
 
+
+
 ## Credits
+
+I give full credit for this app to [SteepAtticStairs] (https://github.com/SteepAtticStairs) - Python <3
 
 The libraries that parse NEXRAD files client-side were provided by two python packages, which can be found here:
 - Level 2 parsing comes from [nexrad_level2.py](https://github.com/ARM-DOE/pyart/blob/main/pyart/io/nexrad_level2.py), ported to JavaScript from [pyart](https://github.com/ARM-DOE/pyart/)
